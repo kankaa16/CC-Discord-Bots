@@ -1,6 +1,6 @@
 # Discord Bots Event
 
-Welcome to the Discord Bots Event! This repository provides a clean, professional starting point for building creative Discord bots using JavaScript and Discord.js v14.
+Welcome to the Discord Bots Event! This repository provides a starting point for building Discord bots using JavaScript and Discord.js v14.
 
 ## Startup your repo!
 
@@ -18,12 +18,12 @@ Follow these steps to get your bot up and running:
 
 ### 2. Install Dependencies
 
-Make sure you have [Node.js 16.0.0](https://nodejs.org/en/download) or higher installed by using, 
+Make sure you have [Node.js 16.0.0](https://nodejs.org/en/download) or higher installed already on your pc. You can check your Node.js version by running:, 
 
 ```bash
 node -v
 ```
-then run:
+then run any one to install all the Dependencies (stick to the one you prefer):
 
 ```bash
 npm install
@@ -116,7 +116,7 @@ In your Discord server, try these commands:
 - `/ping` - Test basic functionality and see bot latency
 - `/help` - See all available commands
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 discord-bots-event/
