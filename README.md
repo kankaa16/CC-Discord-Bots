@@ -246,7 +246,7 @@ Here are some ideas to make your bot unique:
 
 - **Games**: Rock-paper-scissors, trivia, word games
 - **Utilities**: Reminders, polls, random generators
-- **Fun**: Jokes, memes, random facts
+- **Fun**: Jokes, memes, random facts or quotes
 - **Information**: Weather, news, Wikipedia lookups
 - **Moderation**: Auto-moderation, logging, welcome messages
 - **Music**: Play music from YouTube or Spotify
